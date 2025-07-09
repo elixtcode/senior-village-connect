@@ -51,7 +51,7 @@ const Index = () => {
             <div className="inline-flex items-center justify-center w-16 h-16 bg-blue-600 rounded-full mb-4">
               <Shield className="w-8 h-8 text-white" />
             </div>
-            <h1 className="text-2xl font-bold text-gray-900 mb-2">Village Connect</h1>
+            <h1 className="text-2xl font-bold text-gray-900 mb-2">Village East</h1>
             <p className="text-gray-600 text-lg">Secure Community Management</p>
           </div>
         </div>
