@@ -16,9 +16,9 @@ While I’m continuing to build this in collaboration with the village council, 
 ## 🚀 Features I Added / Customized
 
 - QR-based visitor check-in & logging system  
-- Secure handling of sensitive visitor/resident data  
 - Resident activity logs and association dues tracking  
-- Clean, readable UI optimized for elderly users  
+- Clean, readable UI optimized for elderly users
+- No password login due to forgetful elderly users
 - Responsive layout built with Tailwind and React  
 
 ---
@@ -36,7 +36,7 @@ This community-driven project helped me strengthen my skills in:
 
 ## 📌 Project Highlights & Learnings
 
-- Replaced passive CCTV reliance with proactive entry logging  
+- Replace passive CCTV reliance with proactive entry logging  
 - Built UI components using shadcn/ui for clean layout  
 - Planned for OTP-based logins to remove password barriers  
 - Learned how to adapt tech for real local problems  
