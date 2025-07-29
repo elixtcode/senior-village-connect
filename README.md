@@ -1,4 +1,58 @@
-# Welcome to your Lovable project
+# Project: Village East App
+
+This is a security-focused village management app developed as part of my self-study in programming and my goal to contribute meaningfully to the community. It was inspired by real incidents in our neighborhood — including theft, carnapping, and the shocking discovery of a drug lab inside the village.
+
+The app replaces the manual ID-check system (which relies on rarely-reviewed CCTV footage) with a **QR code-based visitor logging system**, enabling real-time accountability and secure data handling.
+
+While I’m continuing to build this in collaboration with the village council, all code, design, and logic were implemented by me using modern frontend technologies.
+
+---
+
+### 🔗 Live URL  
+[https://senior-village-connect.lovable.app/](https://senior-village-connect.lovable.app/)
+
+---
+
+## 🚀 Features I Added / Customized
+
+- QR-based visitor check-in & logging system  
+- Secure handling of sensitive visitor/resident data  
+- Resident activity logs and association dues tracking  
+- Clean, readable UI optimized for elderly users  
+- Responsive layout built with Tailwind and React  
+
+---
+
+## 🧠 What I Learned
+
+This community-driven project helped me strengthen my skills in:
+
+- Designing with security and real-world constraints in mind  
+- Building scalable frontend architecture with reusable components  
+- Considering accessibility for older users (font sizes, navigation, etc.)  
+- Collaborating with stakeholders for iterative feedback and improvements  
+
+---
+
+## 📌 Project Highlights & Learnings
+
+- Replaced passive CCTV reliance with proactive entry logging  
+- Built UI components using shadcn/ui for clean layout  
+- Planned for OTP-based logins to remove password barriers  
+- Learned how to adapt tech for real local problems  
+- Used AI-assisted tools for faster prototyping and iteration  
+
+---
+
+## 🛠️ Tech Stack
+
+- React  
+- TypeScript  
+- Tailwind CSS  
+- QR Code API  
+- shadcn/ui
+
+<details># Welcome to your Lovable project
 
 ## Project info
 
@@ -64,7 +118,7 @@ This project is built with:
 
 Simply open [Lovable](https://lovable.dev/projects/a91d35ed-f698-4de4-ac64-ede97785ca4a) and click on Share -> Publish.
 
-## Can I connect a custom domain to my Lovable project?
+## Can I connect a custom domain to my Lovable project? </details>
 
 Yes, you can!
 
