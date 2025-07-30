@@ -4,7 +4,8 @@ This is a security-focused village management app I developed as part of my self
 
 The app is currently in its **prototype phase** and under collaborative development with the village council. It replaces the manual ID-check system with a **QR code-based visitor logging system**, aiming to enable real-time accountability and secure data handling.
 
-All logic, code, and design decisions were written manually using **React**, **TypeScript**, and **Tailwind CSS**. This early version demonstrates my ability to build a working frontend application from scratch and translate community needs into actionable code.
+The initial layout was scaffolded using an AI-assisted tool, but all core logic, components, and styling were manually implemented and customized by me using React, TypeScript, and Tailwind CSS. This prototype demonstrates my ability to build a functional frontend application and translate real community needs into purposeful code.
+
 ---
 
 ### 🔗 Live Demo  
