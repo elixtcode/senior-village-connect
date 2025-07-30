@@ -8,7 +8,7 @@ The initial layout was scaffolded using an AI-assisted tool, but all core logic,
 
 ---
 
-### 🔗 Live Demo  
+### Live Demo  
 [https://senior-village-connect.lovable.app/](https://senior-village-connect.lovable.app/)
 
 ---
@@ -18,13 +18,14 @@ The initial layout was scaffolded using an AI-assisted tool, but all core logic,
 - Prototype of a QR-based visitor check-in and logging system
 - Initial screens for resident activity logs and association dues tracking
 - Clean, readable UI designed with elderly users in mind
+- Optimized for mobile users, especially Filipinos without access to laptops
 - Password-free access model tailored for seniors (OTP planned)
 - Responsive layout using Tailwind CSS and React
 - QR code logic built with React hooks and typed data structures  
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 This community-driven project helped me grow in the following areas:
 
@@ -36,7 +37,7 @@ This community-driven project helped me grow in the following areas:
 
 ---
 
-## 📌 Project Highlights
+## Project Highlights
 
 - Designed to replace passive CCTV reliance with proactive QR-based visitor tracking
 - Built reusable UI components using shadcn/ui
@@ -44,9 +45,6 @@ This community-driven project helped me grow in the following areas:
 - Demonstrated how tech can address overlooked local safety issues  
 - Used AI-assisted scaffolding during early layout setup only; all code and logic written manually  
 
----
-🛠️ **Note:**  
-This project is an active prototype and not yet in production. I am currently working with the village council to further refine its features and move toward real-world implementation.
 ---
 
 <details>
