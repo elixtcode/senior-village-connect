@@ -1,13 +1,10 @@
-# 🛡️ Project: Village East App
+# Project: Village East App
 
-This is a security-focused village management app I developed as part of my self-study in programming and my goal to apply technology meaningfully to real-world problems. The project was inspired by serious incidents in our community—including theft, carnapping, and the discovery of a drug lab inside the village—highlighting the need for better visitor monitoring and accountability.
+This is a security-focused village management app I developed as part of my self-study in programming and my goal to apply technology meaningfully to real-world problems. The project was inspired by serious incidents in our community—including theft, carnapping, and the shocking discovery of a drug lab inside the village.
 
-The app replaces the manual ID-check process (which relied on rarely-reviewed CCTV footage) with a **QR code-based visitor logging system**, enabling real-time tracking and secure data handling.
+The app is currently in its **prototype phase** and under collaborative development with the village council. It replaces the manual ID-check system with a **QR code-based visitor logging system**, aiming to enable real-time accountability and secure data handling.
 
-All logic, code, and design decisions were implemented by me using modern frontend tools. While the app is still evolving through collaboration with the village council, this version was fully developed independently and demonstrates my ability to design practical, community-centered solutions.
-
-> This project allowed me to apply TypeScript and React fundamentals—including typed state management, reusable components, and real-time interaction logic—in a real-world, security-critical context.
-
+All logic, code, and design decisions were written manually using **React**, **TypeScript**, and **Tailwind CSS**. This early version demonstrates my ability to build a working frontend application from scratch and translate community needs into actionable code.
 ---
 
 ### 🔗 Live Demo  
@@ -15,13 +12,13 @@ All logic, code, and design decisions were implemented by me using modern fronte
 
 ---
 
-## ✅ Key Features
+## Key Features (Prototype Phase)
 
-- QR-based visitor check-in and logging system  
-- Resident activity logs and association dues tracker  
-- Clean, readable UI optimized for elderly users  
-- Password-free access model tailored for seniors  
-- Responsive layout using Tailwind CSS and React  
+- Prototype of a QR-based visitor check-in and logging system
+- Initial screens for resident activity logs and association dues tracking
+- Clean, readable UI designed with elderly users in mind
+- Password-free access model tailored for seniors (OTP planned)
+- Responsive layout using Tailwind CSS and React
 - QR code logic built with React hooks and typed data structures  
 
 ---
@@ -40,23 +37,15 @@ This community-driven project helped me grow in the following areas:
 
 ## 📌 Project Highlights
 
-- Replaced passive CCTV reliance with proactive QR-based entry logging  
-- Built reusable UI components using **shadcn/ui**  
+- Designed to replace passive CCTV reliance with proactive QR-based visitor tracking
+- Built reusable UI components using shadcn/ui
 - Designed for password-free authentication and planned future OTP support  
 - Demonstrated how tech can address overlooked local safety issues  
 - Used AI-assisted scaffolding during early layout setup only; all code and logic written manually  
 
 ---
-
-## 🛠 Tech Stack
-
-- React  
-- TypeScript  
-- Tailwind CSS  
-- shadcn/ui  
-- QR Code API  
-- Vite
-
+🛠️ **Note:**  
+This project is an active prototype and not yet in production. I am currently working with the village council to further refine its features and move toward real-world implementation.
 ---
 
 <details>
