@@ -2,7 +2,7 @@
 
 This is a security-focused village management app I developed as part of my self-study in programming and my goal to apply technology meaningfully to real-world problems. The project was inspired by serious incidents in our community—including theft, carnapping, and the shocking discovery of a drug lab inside the village.
 
-The app is currently in its **prototype phase** and under collaborative development with the village council. It replaces the manual ID-check system with a **QR code-based visitor logging system**, aiming to enable real-time accountability and secure data handling.
+The app is currently in its **prototype phase** and will be under collaborative development with the village council. It replaces the manual ID-check system with a **QR code-based visitor logging system**, aiming to enable real-time accountability and secure data handling.
 
 The initial layout was scaffolded using an AI-assisted tool, but all core logic, components, and styling were manually implemented and customized by me using React, TypeScript, and Tailwind CSS. This prototype demonstrates my ability to build a functional frontend application and translate real community needs into purposeful code.
 
